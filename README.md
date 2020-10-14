@@ -1,1 +1,2 @@
-# jjdzr1-javalanche-web
+# jAvalanche
+# App for employee leave management
